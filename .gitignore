@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+chroma_data/
+*.egg-info/
+.DS_Store
