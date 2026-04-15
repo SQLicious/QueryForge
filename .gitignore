@@ -6,3 +6,7 @@ node_modules/
 chroma_data/
 *.egg-info/
 .DS_Store
+mlruns/
+spark-warehouse/
+derby.log
+metastore_db/
