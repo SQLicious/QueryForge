@@ -4,7 +4,6 @@ Production-grade natural language to SQL engine for financial data — built fro
 
 QueryForge is the production-grade version of what Databricks Genie, Snowflake Cortex Analyst, and Azure AI Foundry's NL2SQL feature are commercializing. It converts natural language questions into validated SQL across multiple financial data schemas, with prompt versioning via MLflow, automated RAGAS evaluation on every GitHub commit, query result validation, and a feedback loop for continuous improvement.
 
-Inspired by the text-to-SQL POC built at SMBC on real banking data.
 
 ## Architecture
 
